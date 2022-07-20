@@ -20,7 +20,7 @@ docker exec -it qinglong /bin/bash
 - [x] 一键安装
 
 ```
-rm -f install.sh* && wget -q https://raw.githubusercontent.com/beacham1988/gd/main/install.sh
+rm -f install.sh* && wget -q https://raw.githubusercontent.com/beacham1988/gd/main/install.sh && bash install.sh
 ```
 
 
